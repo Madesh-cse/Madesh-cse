@@ -19,7 +19,7 @@ I enjoy working across the full development lifecycle — from designing respons
   <a href="https://www.linkedin.com/in/madesh-m-36130627a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://final-portfolio-psi-coral.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/">
