@@ -135,8 +135,6 @@ I enjoy working across the full development lifecycle — from designing respons
   </a>
 </p>
 
-> 💡 Replace `Madesh-cse` with your actual LeetCode username.
-
 ---
 
 # 📊 GitHub Statistics
